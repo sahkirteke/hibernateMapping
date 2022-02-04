@@ -1,6 +1,6 @@
 # hibernateMapping
 
-## These project include all hibernate mapping.
+## These projects include all hibernate mapping.
 
 ### Contents 
 
